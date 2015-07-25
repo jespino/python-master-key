@@ -1,5 +1,5 @@
-MaskterKey
-==========
+MasterKey
+=========
 
 MasterKey is a pure python module to open your python classes, and allow you to
 redefine and fix the built-in python types.
